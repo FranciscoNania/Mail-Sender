@@ -1,9 +1,15 @@
 # Mail-Sender
-Installation
+
+
+## Installation
+
 All the libraries used are in the Anaconda package.
 
+
 ## Project Motivation
+
 The main purpose of this project was sending e-mails based on an excel file for a certification on an online class. The code was made to be functional for other purposes as well, it reads the excel dataframe and fill the gaps in the mail body with information from it. It also attaches a pdf file.
+
 
 ## How to use
 
